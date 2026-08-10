@@ -1,6 +1,6 @@
 # Product Series | 产品迷思，商业产品经理的自我修养
 
-[Producet Series](https://github.com/wx-chevalier/Product-Series) 承载了笔者对于产品设计、交互体验、文档创作与演示、项目管理、行业视点等多方面的思考。
+[Producet Series](https://github.com/wx-chevalier/Product-Notes) 承载了笔者对于产品设计、交互体验、文档创作与演示、项目管理、行业视点等多方面的思考。
 
 # Preface | 前言
 
@@ -11,6 +11,31 @@
 - 无感设计：自然，无需思考，符合角色个性
 
 - 渐进式设计：不求全求大
+
+产品经理的核心素养是：好奇心、同理心、理性思维、洞察力
+
+产品经理的能力模型是：
+
+- 产品发现
+
+  - 商业洞察、敏略
+  - 客户调研、访谈
+  - 用户画像与需求管理
+  - 竞品分析
+  - 产品战略
+
+- 产品交付
+
+  - 产品定义
+  - 产品设计：用户旅程设计、业务流设计、数据流设计、功能设计、交互设计
+  - 项目管理
+  - 技术认知
+
+- 产品运营
+
+  - 数据分析
+  - 市场营销
+  - 增长运营
 
 ## 产品经理入门
 
@@ -34,8 +59,6 @@
 
 # About
 
-
-
 ## Copyright | 版权
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg) ![](https://parg.co/bDm)
@@ -44,8 +67,8 @@
 
 ## Copyright & More | 延伸阅读
 
-[![技术视野](https://s2.ax1x.com/2019/12/03/QQJLvt.png)](https://github.com/wx-chevalier/Awesome-MindMaps)
+[![技术视野](https://s3.ax1x.com/2021/02/21/yTSKdH.png)](https://github.com/wx-chevalier/Awesome-MindMaps)
 
-您还可以前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
+您还可以前往 [NGTE Books](https://ng-tech.icu/books-gallery/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
-[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books/)
+[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books-gallery/)
